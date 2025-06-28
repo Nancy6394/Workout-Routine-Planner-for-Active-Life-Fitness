@@ -1,0 +1,53 @@
+🏋️‍♂️ Workout Routine Planner
+1. Add Routine
+2. View Routines
+3. Export to CSV
+4. Exit
+Enter your choice (1-4): 1
+Enter exercise name: Push-ups
+Enter date (YYYY-MM-DD): 2025-06-28
+Enter number of reps: 20
+
+✅ Routine ID001 added successfully.
+
+🏋️‍♂️ Workout Routine Planner
+1. Add Routine
+2. View Routines
+3. Export to CSV
+4. Exit
+Enter your choice (1-4): 1
+Enter exercise name: Squats
+Enter date (YYYY-MM-DD): 2025-06-29
+Enter number of reps: 30
+
+✅ Routine ID002 added successfully.
+
+🏋️‍♂️ Workout Routine Planner
+1. Add Routine
+2. View Routines
+3. Export to CSV
+4. Exit
+Enter your choice (1-4): 2
+
+📋 Current Workout Routines:
+       exercise        date  reps
+ID001  Push-ups  2025-06-28    20
+ID002    Squats  2025-06-29    30
+
+🏋️‍♂️ Workout Routine Planner
+1. Add Routine
+2. View Routines
+3. Export to CSV
+4. Exit
+Enter your choice (1-4): 3
+
+✅ Exported to workout_routines.csv
+
+🏋️‍♂️ Workout Routine Planner
+1. Add Routine
+2. View Routines
+3. Export to CSV
+4. Exit
+Enter your choice (1-4): 4
+
+👋 Exiting. Goodbye!
